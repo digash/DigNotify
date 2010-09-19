@@ -1,0 +1,10 @@
+EXPORTS
+DigLock
+DigUnlock
+DigStartScreenSaver
+DigStopScreenSaver
+DigLogon
+DigLogoff
+DigStartShell
+DigStartup
+DigShutdown
